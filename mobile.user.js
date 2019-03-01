@@ -8,8 +8,8 @@
 
 /* 加入CSS語法 */
 addCsss([
-	'.plurk.porn .plurk_content {opacity:0.5; filter:blur(1px);}',
-	'.plurk_meta .porn::before {transform:scale(2);}',
+	'.plurk.porn .plurk_content {opacity:0.5; filter:blur(1px);}', //透明化+模糊化
+	'.plurk_meta .porn::before {transform:scale(2);}', //圖示放大
 ]);
 
 /* 把內含R18 ICON的噗加上porn class */
