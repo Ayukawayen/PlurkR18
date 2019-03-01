@@ -8,7 +8,7 @@
 
 /* 加入CSS語法 */
 addCsss([
-	'.plurk.porn .plurk_content {opacity:0.5; filter:blur(1px);}', //透明化+模糊化
+	'.plurk.porn .plurk_content {opacity:0.5; filter:blur(2px);}', //透明化+模糊化
 	'.plurk_meta .porn::before {transform:scale(2);}', //圖示放大
 ]);
 
